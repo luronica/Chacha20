@@ -101,7 +101,7 @@ Zenith Kokkodan — Third Year B.Tech (IoT), Semester V, Roll No. 15
 
 Kaustubh Deshpande — Third Year B.Tech (IoT), Semester V, Roll No. 14
 
-For the Subject of : Cryptography and Network Security (2024-2025)
+For the Subject of : Cryptography and Network Security (2025-2026)
 
 Thakur College of Engineering and Technology, Mumbai.
 
