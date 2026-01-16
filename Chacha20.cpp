@@ -5,6 +5,7 @@
 #include <cstring>
 using namespace std;
 
+
 // Rotate left function
 uint32_t rotate_left(uint32_t value, int shift) {
     return (value << shift) | (value >> (32 - shift));
