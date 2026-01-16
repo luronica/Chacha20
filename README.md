@@ -89,19 +89,23 @@ Decrypted text (should match input plaintext)
 
 
 
+Team Members (Student Details): 
 
-Team Members (Internal Assessment Group)
-Innovative Examination — Group Activity
+Varnika Kambley — Third Year B.Tech (IoT), Semester V, Roll No. 13
 
-Varnika Kambley — Third Year B.Tech (IoT), Roll No. 13
+Daksh Kotian — Third Year B.Tech (IoT), Semester V, IoT 17
 
-Daksh Kotian — Third Year B.Tech (IoT), IoT 17
+Dhruv Kotian — Third Year B.Tech (IoT), Semester V, IoT 18
 
-Dhruv Kotian — Third Year B.Tech (IoT), IoT 18
+Zenith Kokkodan — Third Year B.Tech (IoT), Semester V, Roll No. 15
 
-Zenith Kokkodan — Third Year B.Tech (IoT), Roll No. 15
+Kaustubh Deshpande — Third Year B.Tech (IoT), Semester V, Roll No. 14
 
-Kaustubh Deshpande — Third Year B.Tech (IoT), Roll No. 14
+For the Subject of : Cryptography and Network Security (2024-2025)
+
+Thakur College of Engineering and Technology, Mumbai.
+
+
 
 Note : This project is designed for educational and demonstration purposes, with extra debugging output enabled for learning how ChaCha20 works step-by-step.
 
